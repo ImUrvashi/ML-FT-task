@@ -1,0 +1,274 @@
+id,action,reason
+tr-00008,drop,ticket text overlaps dev; excluded from all training runs
+tr-00013,fix,"recompute priority from category, labelled amount, and active legal-threat text"
+tr-00018,fix,"recompute priority from category, labelled amount, and active legal-threat text"
+tr-00020,fix,"replace legacy prio field with schema priority; convert legacy transaction date to ISO format; recompute priority from category, labelled amount, and active legal-threat text"
+tr-00023,fix,"recompute priority from category, labelled amount, and active legal-threat text"
+tr-00045,fix,"recompute priority from category, labelled amount, and active legal-threat text"
+tr-00049,fix,"replace legacy prio field with schema priority; recompute priority from category, labelled amount, and active legal-threat text"
+tr-00058,fix,"replace legacy prio field with schema priority; convert legacy transaction date to ISO format; recompute priority from category, labelled amount, and active legal-threat text"
+tr-00059,fix,"recompute priority from category, labelled amount, and active legal-threat text"
+tr-00060,drop,assistant label is incomplete or invalid JSON
+tr-00071,fix,normalize NimbusPay transaction ID
+tr-00072,fix,"replace legacy prio field with schema priority; recompute priority from category, labelled amount, and active legal-threat text"
+tr-00073,fix,"recompute priority from category, labelled amount, and active legal-threat text"
+tr-00077,fix,"replace legacy prio field with schema priority; convert legacy transaction date to ISO format; recompute priority from category, labelled amount, and active legal-threat text"
+tr-00086,drop,ticket text overlaps dev; excluded from all training runs
+tr-00095,drop,assistant label is incomplete or invalid JSON
+tr-00114,fix,"replace legacy prio field with schema priority; recompute priority from category, labelled amount, and active legal-threat text"
+tr-00120,fix,"replace legacy prio field with schema priority; recompute priority from category, labelled amount, and active legal-threat text"
+tr-00123,fix,"replace legacy prio field with schema priority; convert legacy transaction date to ISO format; recompute priority from category, labelled amount, and active legal-threat text"
+tr-00125,drop,assistant label is incomplete or invalid JSON
+tr-00129,fix,"recompute priority from category, labelled amount, and active legal-threat text"
+tr-00130,drop,ticket text overlaps dev; excluded from all training runs
+tr-00146,fix,"recompute priority from category, labelled amount, and active legal-threat text"
+tr-00147,fix,normalize NimbusPay transaction ID
+tr-00151,fix,normalize NimbusPay transaction ID
+tr-00153,fix,"replace legacy prio field with schema priority; convert legacy transaction date to ISO format; recompute priority from category, labelled amount, and active legal-threat text"
+tr-00154,fix,"recompute priority from category, labelled amount, and active legal-threat text"
+tr-00156,drop,duplicate ticket text and label in training set
+tr-00160,fix,"replace legacy prio field with schema priority; convert legacy transaction date to ISO format; recompute priority from category, labelled amount, and active legal-threat text"
+tr-00162,drop,ticket text overlaps dev; excluded from all training runs
+tr-00172,drop,assistant label is incomplete or invalid JSON
+tr-00178,fix,"replace legacy prio field with schema priority; recompute priority from category, labelled amount, and active legal-threat text"
+tr-00184,fix,"recompute priority from category, labelled amount, and active legal-threat text"
+tr-00187,fix,"recompute priority from category, labelled amount, and active legal-threat text"
+tr-00192,fix,"replace legacy prio field with schema priority; recompute priority from category, labelled amount, and active legal-threat text"
+tr-00208,drop,duplicate ticket text and label in training set
+tr-00211,drop,duplicate ticket text and label in training set
+tr-00212,fix,"recompute priority from category, labelled amount, and active legal-threat text"
+tr-00219,fix,"replace legacy prio field with schema priority; recompute priority from category, labelled amount, and active legal-threat text"
+tr-00220,fix,"recompute priority from category, labelled amount, and active legal-threat text"
+tr-00223,fix,"replace legacy prio field with schema priority; recompute priority from category, labelled amount, and active legal-threat text"
+tr-00225,fix,"recompute priority from category, labelled amount, and active legal-threat text"
+tr-00226,drop,duplicate ticket text and label in training set
+tr-00249,fix,"replace legacy prio field with schema priority; convert legacy transaction date to ISO format; recompute priority from category, labelled amount, and active legal-threat text"
+tr-00258,fix,"replace legacy prio field with schema priority; recompute priority from category, labelled amount, and active legal-threat text"
+tr-00261,drop,ticket text overlaps dev; excluded from all training runs
+tr-00263,fix,"replace legacy prio field with schema priority; convert legacy transaction date to ISO format; recompute priority from category, labelled amount, and active legal-threat text"
+tr-00266,drop,ticket text overlaps dev; excluded from all training runs
+tr-00267,drop,assistant label is incomplete or invalid JSON
+tr-00280,drop,ticket text overlaps dev; excluded from all training runs
+tr-00294,fix,"recompute priority from category, labelled amount, and active legal-threat text"
+tr-00297,drop,duplicate ticket text and label in training set
+tr-00306,fix,"recompute priority from category, labelled amount, and active legal-threat text"
+tr-00309,fix,"recompute priority from category, labelled amount, and active legal-threat text"
+tr-00312,fix,"recompute priority from category, labelled amount, and active legal-threat text"
+tr-00317,drop,ticket text overlaps dev; excluded from all training runs
+tr-00320,fix,"replace legacy prio field with schema priority; recompute priority from category, labelled amount, and active legal-threat text"
+tr-00330,drop,ticket text overlaps dev; excluded from all training runs
+tr-00343,drop,ticket text overlaps dev; excluded from all training runs
+tr-00346,fix,"replace legacy prio field with schema priority; recompute priority from category, labelled amount, and active legal-threat text"
+tr-00347,fix,"replace legacy prio field with schema priority; convert legacy transaction date to ISO format; recompute priority from category, labelled amount, and active legal-threat text"
+tr-00349,drop,duplicate ticket text and label in training set
+tr-00355,fix,"recompute priority from category, labelled amount, and active legal-threat text"
+tr-00357,drop,assistant label is incomplete or invalid JSON
+tr-00364,drop,duplicate ticket text and label in training set
+tr-00365,fix,"replace legacy prio field with schema priority; recompute priority from category, labelled amount, and active legal-threat text"
+tr-00370,fix,"replace legacy prio field with schema priority; convert legacy transaction date to ISO format; recompute priority from category, labelled amount, and active legal-threat text"
+tr-00373,drop,duplicate ticket text and label in training set
+tr-00379,drop,ticket text overlaps dev; excluded from all training runs
+tr-00380,fix,"recompute priority from category, labelled amount, and active legal-threat text"
+tr-00382,fix,"recompute priority from category, labelled amount, and active legal-threat text"
+tr-00385,fix,"replace legacy prio field with schema priority; recompute priority from category, labelled amount, and active legal-threat text"
+tr-00391,fix,normalize NimbusPay transaction ID
+tr-00413,fix,"recompute priority from category, labelled amount, and active legal-threat text"
+tr-00420,fix,normalize NimbusPay transaction ID
+tr-00424,fix,"recompute priority from category, labelled amount, and active legal-threat text"
+tr-00427,fix,"recompute priority from category, labelled amount, and active legal-threat text"
+tr-00436,drop,duplicate ticket text and label in training set
+tr-00452,fix,"recompute priority from category, labelled amount, and active legal-threat text"
+tr-00454,drop,duplicate ticket text and label in training set
+tr-00457,fix,"replace legacy prio field with schema priority; recompute priority from category, labelled amount, and active legal-threat text"
+tr-00460,fix,normalize NimbusPay transaction ID
+tr-00461,fix,"replace legacy prio field with schema priority; recompute priority from category, labelled amount, and active legal-threat text"
+tr-00470,fix,normalize NimbusPay transaction ID
+tr-00475,fix,"replace legacy prio field with schema priority; recompute priority from category, labelled amount, and active legal-threat text"
+tr-00476,drop,duplicate ticket text and label in training set
+tr-00478,drop,assistant label is incomplete or invalid JSON
+tr-00485,fix,"recompute priority from category, labelled amount, and active legal-threat text"
+tr-00496,drop,ticket text overlaps dev; excluded from all training runs
+tr-00497,drop,assistant label is incomplete or invalid JSON
+tr-00502,drop,duplicate ticket text and label in training set
+tr-00503,fix,"recompute priority from category, labelled amount, and active legal-threat text"
+tr-00505,fix,"recompute priority from category, labelled amount, and active legal-threat text"
+tr-00508,fix,"recompute priority from category, labelled amount, and active legal-threat text"
+tr-00514,drop,ticket text overlaps dev; excluded from all training runs
+tr-00516,fix,"replace legacy prio field with schema priority; recompute priority from category, labelled amount, and active legal-threat text"
+tr-00523,fix,"recompute priority from category, labelled amount, and active legal-threat text"
+tr-00532,drop,duplicate ticket text and label in training set
+tr-00533,fix,"recompute priority from category, labelled amount, and active legal-threat text"
+tr-00534,drop,duplicate ticket text and label in training set
+tr-00546,drop,duplicate ticket text and label in training set
+tr-00556,fix,"replace legacy prio field with schema priority; convert legacy transaction date to ISO format; recompute priority from category, labelled amount, and active legal-threat text"
+tr-00558,drop,assistant label is incomplete or invalid JSON
+tr-00559,drop,ticket text overlaps dev; excluded from all training runs
+tr-00567,fix,"recompute priority from category, labelled amount, and active legal-threat text"
+tr-00570,fix,normalize NimbusPay transaction ID
+tr-00573,drop,duplicate ticket text and label in training set
+tr-00577,fix,"replace legacy prio field with schema priority; convert legacy transaction date to ISO format; recompute priority from category, labelled amount, and active legal-threat text"
+tr-00585,drop,ticket text overlaps dev; excluded from all training runs
+tr-00589,fix,"replace legacy prio field with schema priority; recompute priority from category, labelled amount, and active legal-threat text"
+tr-00595,fix,normalize NimbusPay transaction ID
+tr-00602,fix,"replace legacy prio field with schema priority; convert legacy transaction date to ISO format; recompute priority from category, labelled amount, and active legal-threat text"
+tr-00605,drop,assistant label is incomplete or invalid JSON
+tr-00606,fix,"replace legacy prio field with schema priority; recompute priority from category, labelled amount, and active legal-threat text"
+tr-00609,drop,ticket text overlaps dev; excluded from all training runs
+tr-00610,fix,"replace legacy prio field with schema priority; recompute priority from category, labelled amount, and active legal-threat text"
+tr-00616,drop,ticket text overlaps dev; excluded from all training runs
+tr-00628,fix,"replace legacy prio field with schema priority; convert legacy transaction date to ISO format; recompute priority from category, labelled amount, and active legal-threat text"
+tr-00638,fix,"recompute priority from category, labelled amount, and active legal-threat text"
+tr-00648,fix,"recompute priority from category, labelled amount, and active legal-threat text"
+tr-00649,fix,normalize NimbusPay transaction ID
+tr-00656,fix,"replace legacy prio field with schema priority; convert legacy transaction date to ISO format; recompute priority from category, labelled amount, and active legal-threat text"
+tr-00665,drop,duplicate ticket text and label in training set
+tr-00669,drop,ticket text overlaps dev; excluded from all training runs
+tr-00670,fix,"replace legacy prio field with schema priority; convert legacy transaction date to ISO format; recompute priority from category, labelled amount, and active legal-threat text"
+tr-00674,drop,assistant label is incomplete or invalid JSON
+tr-00677,fix,"replace legacy prio field with schema priority; convert legacy transaction date to ISO format; recompute priority from category, labelled amount, and active legal-threat text"
+tr-00685,fix,"replace legacy prio field with schema priority; recompute priority from category, labelled amount, and active legal-threat text"
+tr-00689,fix,"recompute priority from category, labelled amount, and active legal-threat text"
+tr-00701,drop,duplicate ticket text and label in training set
+tr-00704,fix,"replace legacy prio field with schema priority; convert legacy transaction date to ISO format; recompute priority from category, labelled amount, and active legal-threat text"
+tr-00706,fix,"recompute priority from category, labelled amount, and active legal-threat text"
+tr-00707,fix,"recompute priority from category, labelled amount, and active legal-threat text"
+tr-00716,drop,duplicate ticket text and label in training set
+tr-00717,fix,"recompute priority from category, labelled amount, and active legal-threat text"
+tr-00727,fix,"recompute priority from category, labelled amount, and active legal-threat text"
+tr-00735,drop,assistant label is incomplete or invalid JSON
+tr-00744,fix,"replace legacy prio field with schema priority; recompute priority from category, labelled amount, and active legal-threat text"
+tr-00745,fix,"recompute priority from category, labelled amount, and active legal-threat text"
+tr-00746,fix,"recompute priority from category, labelled amount, and active legal-threat text"
+tr-00757,fix,"recompute priority from category, labelled amount, and active legal-threat text"
+tr-00761,drop,duplicate ticket text and label in training set
+tr-00765,drop,assistant label is incomplete or invalid JSON
+tr-00771,fix,normalize NimbusPay transaction ID
+tr-00773,drop,duplicate ticket text and label in training set
+tr-00778,fix,"replace legacy prio field with schema priority; recompute priority from category, labelled amount, and active legal-threat text"
+tr-00782,fix,"recompute priority from category, labelled amount, and active legal-threat text"
+tr-00783,drop,duplicate ticket text and label in training set
+tr-00789,drop,ticket text overlaps dev; excluded from all training runs
+tr-00791,fix,"replace legacy prio field with schema priority; convert legacy transaction date to ISO format; recompute priority from category, labelled amount, and active legal-threat text"
+tr-00800,drop,duplicate ticket text and label in training set
+tr-00802,fix,"recompute priority from category, labelled amount, and active legal-threat text"
+tr-00809,drop,assistant label is incomplete or invalid JSON
+tr-00811,drop,duplicate ticket text and label in training set
+tr-00820,fix,"replace legacy prio field with schema priority; convert legacy transaction date to ISO format; recompute priority from category, labelled amount, and active legal-threat text"
+tr-00824,drop,assistant label is incomplete or invalid JSON
+tr-00838,fix,normalize NimbusPay transaction ID
+tr-00839,fix,"replace legacy prio field with schema priority; convert legacy transaction date to ISO format; recompute priority from category, labelled amount, and active legal-threat text"
+tr-00840,drop,ticket text overlaps dev; excluded from all training runs
+tr-00843,drop,duplicate ticket text and label in training set
+tr-00846,drop,assistant label is incomplete or invalid JSON
+tr-00852,fix,"recompute priority from category, labelled amount, and active legal-threat text"
+tr-00879,fix,"recompute priority from category, labelled amount, and active legal-threat text"
+tr-00880,drop,duplicate ticket text and label in training set
+tr-00888,fix,normalize NimbusPay transaction ID
+tr-00890,fix,"recompute priority from category, labelled amount, and active legal-threat text"
+tr-00899,fix,normalize NimbusPay transaction ID
+tr-00907,drop,ticket text overlaps dev; excluded from all training runs
+tr-00908,fix,normalize NimbusPay transaction ID
+tr-00913,drop,duplicate ticket text and label in training set
+tr-00922,fix,"replace legacy prio field with schema priority; recompute priority from category, labelled amount, and active legal-threat text"
+tr-00932,fix,"recompute priority from category, labelled amount, and active legal-threat text"
+tr-00933,fix,"recompute priority from category, labelled amount, and active legal-threat text"
+tr-00936,drop,duplicate ticket text and label in training set
+tr-00941,drop,ticket text overlaps dev; excluded from all training runs
+tr-00958,drop,assistant label is incomplete or invalid JSON
+tr-00960,drop,assistant label is incomplete or invalid JSON
+tr-00967,fix,"recompute priority from category, labelled amount, and active legal-threat text"
+tr-00968,drop,duplicate ticket text and label in training set
+tr-00975,drop,assistant label is incomplete or invalid JSON
+tr-00977,drop,duplicate ticket text and label in training set
+tr-00978,drop,assistant label is incomplete or invalid JSON
+tr-00979,drop,assistant label is incomplete or invalid JSON
+tr-00980,drop,assistant label is incomplete or invalid JSON
+tr-00985,fix,"replace legacy prio field with schema priority; convert legacy transaction date to ISO format; recompute priority from category, labelled amount, and active legal-threat text"
+tr-00987,fix,"replace legacy prio field with schema priority; recompute priority from category, labelled amount, and active legal-threat text"
+tr-01000,drop,duplicate ticket text and label in training set
+tr-01001,drop,ticket text overlaps dev; excluded from all training runs
+tr-01006,fix,"replace legacy prio field with schema priority; recompute priority from category, labelled amount, and active legal-threat text"
+tr-01011,drop,duplicate ticket text and label in training set
+tr-01012,fix,normalize NimbusPay transaction ID
+tr-01017,fix,"recompute priority from category, labelled amount, and active legal-threat text"
+tr-01019,fix,"recompute priority from category, labelled amount, and active legal-threat text"
+tr-01023,fix,"recompute priority from category, labelled amount, and active legal-threat text"
+tr-01028,fix,"replace legacy prio field with schema priority; recompute priority from category, labelled amount, and active legal-threat text"
+tr-01030,drop,duplicate ticket text and label in training set
+tr-01044,drop,duplicate ticket text and label in training set
+tr-01046,fix,"replace legacy prio field with schema priority; convert legacy transaction date to ISO format; recompute priority from category, labelled amount, and active legal-threat text"
+tr-01048,fix,"recompute priority from category, labelled amount, and active legal-threat text"
+tr-01067,drop,duplicate ticket text and label in training set
+tr-01070,drop,assistant label is incomplete or invalid JSON
+tr-01083,fix,"replace legacy prio field with schema priority; recompute priority from category, labelled amount, and active legal-threat text"
+tr-01085,drop,duplicate ticket text and label in training set
+tr-01086,fix,"recompute priority from category, labelled amount, and active legal-threat text"
+tr-01087,drop,assistant label is incomplete or invalid JSON
+tr-01089,fix,"replace legacy prio field with schema priority; recompute priority from category, labelled amount, and active legal-threat text"
+tr-01093,drop,duplicate ticket text and label in training set
+tr-01104,drop,duplicate ticket text and label in training set
+tr-01108,drop,duplicate ticket text and label in training set
+tr-01109,fix,"recompute priority from category, labelled amount, and active legal-threat text"
+tr-01115,fix,"replace legacy prio field with schema priority; recompute priority from category, labelled amount, and active legal-threat text"
+tr-01131,fix,"recompute priority from category, labelled amount, and active legal-threat text"
+tr-01133,fix,"replace legacy prio field with schema priority; convert legacy transaction date to ISO format; recompute priority from category, labelled amount, and active legal-threat text"
+tr-01134,drop,duplicate ticket text and label in training set
+tr-01135,drop,duplicate ticket text and label in training set
+tr-01136,fix,normalize NimbusPay transaction ID
+tr-01139,drop,duplicate ticket text and label in training set
+tr-01141,drop,duplicate ticket text and label in training set
+tr-01143,fix,"replace legacy prio field with schema priority; convert legacy transaction date to ISO format; recompute priority from category, labelled amount, and active legal-threat text"
+tr-01146,fix,"recompute priority from category, labelled amount, and active legal-threat text"
+tr-01151,fix,"replace legacy prio field with schema priority; recompute priority from category, labelled amount, and active legal-threat text"
+tr-01158,fix,"replace legacy prio field with schema priority; convert legacy transaction date to ISO format; recompute priority from category, labelled amount, and active legal-threat text"
+tr-01160,drop,ticket text overlaps dev; excluded from all training runs
+tr-01170,drop,ticket text overlaps dev; excluded from all training runs
+tr-01176,drop,duplicate ticket text and label in training set
+tr-01178,fix,"replace legacy prio field with schema priority; convert legacy transaction date to ISO format; recompute priority from category, labelled amount, and active legal-threat text"
+tr-01183,drop,duplicate ticket text and label in training set
+tr-01186,drop,ticket text overlaps dev; excluded from all training runs
+tr-01188,fix,normalize NimbusPay transaction ID
+tr-01199,drop,assistant label is incomplete or invalid JSON
+tr-01202,fix,"replace legacy prio field with schema priority; recompute priority from category, labelled amount, and active legal-threat text"
+tr-01204,drop,duplicate ticket text and label in training set
+tr-01206,drop,ticket text overlaps dev; excluded from all training runs
+tr-01222,fix,"recompute priority from category, labelled amount, and active legal-threat text"
+tr-01238,fix,normalize NimbusPay transaction ID
+tr-01239,drop,duplicate ticket text and label in training set
+tr-01246,drop,duplicate ticket text and label in training set
+tr-01248,drop,duplicate ticket text and label in training set
+tr-01250,drop,duplicate ticket text and label in training set
+tr-01260,drop,duplicate ticket text and label in training set
+tr-01274,fix,"replace legacy prio field with schema priority; convert legacy transaction date to ISO format; recompute priority from category, labelled amount, and active legal-threat text"
+tr-01275,drop,duplicate ticket text and label in training set
+tr-01286,fix,"replace legacy prio field with schema priority; recompute priority from category, labelled amount, and active legal-threat text"
+tr-01301,fix,"replace legacy prio field with schema priority; recompute priority from category, labelled amount, and active legal-threat text"
+tr-01305,fix,"recompute priority from category, labelled amount, and active legal-threat text"
+tr-01309,drop,ticket text overlaps dev; excluded from all training runs
+tr-01313,drop,ticket text overlaps dev; excluded from all training runs
+tr-01319,fix,"recompute priority from category, labelled amount, and active legal-threat text"
+tr-01326,fix,"replace legacy prio field with schema priority; recompute priority from category, labelled amount, and active legal-threat text"
+tr-01331,fix,"replace legacy prio field with schema priority; recompute priority from category, labelled amount, and active legal-threat text"
+tr-01338,drop,duplicate ticket text and label in training set
+tr-01339,drop,ticket text overlaps dev; excluded from all training runs
+tr-01343,fix,"replace legacy prio field with schema priority; convert legacy transaction date to ISO format; recompute priority from category, labelled amount, and active legal-threat text"
+tr-01349,drop,ticket text overlaps dev; excluded from all training runs
+tr-01359,fix,"replace legacy prio field with schema priority; recompute priority from category, labelled amount, and active legal-threat text"
+tr-01363,fix,normalize NimbusPay transaction ID
+tr-01366,fix,"replace legacy prio field with schema priority; convert legacy transaction date to ISO format; recompute priority from category, labelled amount, and active legal-threat text"
+tr-01370,fix,"recompute priority from category, labelled amount, and active legal-threat text"
+tr-01375,fix,"recompute priority from category, labelled amount, and active legal-threat text"
+tr-01381,drop,duplicate ticket text and label in training set
+tr-01386,fix,"replace legacy prio field with schema priority; recompute priority from category, labelled amount, and active legal-threat text"
+tr-01393,drop,duplicate ticket text and label in training set
+tr-01398,drop,duplicate ticket text and label in training set
+tr-01403,fix,"recompute priority from category, labelled amount, and active legal-threat text"
+tr-01407,fix,"recompute priority from category, labelled amount, and active legal-threat text"
+tr-01409,drop,duplicate ticket text and label in training set
+tr-01413,fix,"replace legacy prio field with schema priority; recompute priority from category, labelled amount, and active legal-threat text"
+tr-01419,drop,duplicate ticket text and label in training set
+tr-01421,drop,ticket text overlaps dev; excluded from all training runs
+tr-01427,drop,duplicate ticket text and label in training set
+tr-01433,drop,duplicate ticket text and label in training set
+tr-01441,fix,"replace legacy prio field with schema priority; recompute priority from category, labelled amount, and active legal-threat text"
+tr-01443,drop,duplicate ticket text and label in training set

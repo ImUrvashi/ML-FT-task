@@ -3,6 +3,7 @@ data/
 
 # Local execution notes and scratch work.
 EXECUTION_PLAN.md
+IMPLEMENTATION_JOURNAL.md
 scratch/
 logs/
 checkpoints/
@@ -21,3 +22,4 @@ __pycache__/
 .venv/
 venv/
 .DS_Store
+candidate_pack_colab.zip
